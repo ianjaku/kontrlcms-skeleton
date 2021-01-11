@@ -1,0 +1,8 @@
+.idea
+.vscode
+.env
+vendor
+assets/node_modules
+node_modules
+public/storage
+cache

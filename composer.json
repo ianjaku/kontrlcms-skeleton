@@ -1,0 +1,5 @@
+{
+    "require": {
+        "invacto/kontrlcms": "^0.4.2"
+    }
+}
