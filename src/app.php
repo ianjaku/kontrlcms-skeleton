@@ -8,7 +8,7 @@ $cms = new KontrlCMS(__DIR__ . "/..");
 
 $cms->page("/", "home.twig");
 
-$cms->redirect("/login", "/simplecms/login");
+$cms->redirect("/login", "/kontrlcms/login");
 
 $cms->addPlugin(new \invacto\KontrlCMS\plugins\text\TextPlugin());
 //$cms->addPlugin(new \invacto\KontrlCMS\plugins\img\ImgPlugin());
